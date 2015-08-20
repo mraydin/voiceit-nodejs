@@ -2,9 +2,9 @@
 A Wrapper for using the VoiceIt Rest API.
 
 ##Download
-###Method1
+###Method 1
 You can either download the respository and add its contents to your root project folder by cloning or clicking or here [VoiceIt Node JS Library](https://github.com/voiceittech/voiceit-nodejs/archive/master.zip)
-###Method2
+###Method 2
 Otherwise you can easily download the VoiceIt Wrapper via the npm package manager simply via the command
 ```
 npm install VoiceIt
