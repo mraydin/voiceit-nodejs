@@ -18,4 +18,6 @@ myVoiceIt = require('VoiceIt');
 myVoiceIt.initialize('123456');
 //Pass your 6 digit developer id as parameter to the intialize method like shown above
 ```
+##Demo
+Also check out the Demo.js demo that demonstrates how to make a createUser API call using the VoiceIt Node JS Wrapper
 Finally use all other API Calls as documented on the [VoiceIt API Documentation](https://siv.voiceprintportal.com/getstarted.jsp#apidocs) page.
