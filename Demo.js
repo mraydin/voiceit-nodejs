@@ -1,6 +1,6 @@
 myVoiceIt = require('VoiceIt');
 
-myVoiceIt.initialize('123456');
+myVoiceIt.initialize('DEVELOPER_ID_HERE');
 //Pass your 6 digit developer id as parameter to the intialize method like shown above
 myVoiceIt.createUser({
 	email: 'developer@voiceit-tech.com',
