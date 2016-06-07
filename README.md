@@ -15,7 +15,7 @@ Then initialize a VoiceIt Object like this with your own developer id
 ```nodejs
 myVoiceIt = require('VoiceIt');
 
-myVoiceIt.initialize('123456');
+myVoiceIt.initialize('1d6361f81f3047ca8b0c0332ac0fb17d');
 //Pass your 6 digit developer id as parameter to the intialize method like shown above
 ```
 ##Demo
