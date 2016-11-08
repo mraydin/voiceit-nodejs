@@ -1,4 +1,5 @@
 #VoiceIt Node JS wrapper
+[![npm version](https://badge.fury.io/js/VoiceIt.svg)](https://badge.fury.io/js/VoiceIt)
 A Wrapper for using the VoiceIt Rest API.
 
 ##Download
