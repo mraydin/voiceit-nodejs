@@ -22,4 +22,4 @@ myVoiceIt.initialize('1d6361f81f3047ca8b0c0332ac0fb17d');
 Also check out the Demo.js demo that demonstrates how to make a createUser API call using the VoiceIt Node JS Wrapper.
 
 ##Documentation
-Finally use all other API Calls as documented on the [VoiceIt API Documentation](https://siv.voiceprintportal.com/getstarted.jsp#apidocs) page.
+Finally use all other API Calls as documented on the [VoiceIt API Documentation](https://siv.voiceprintportal.com/apidocs.jsp) page.
